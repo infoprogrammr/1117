@@ -10,9 +10,8 @@ public class Challenge {
 		String echo = ""; 
 		///{ 
 	 
-		//start your coding here  
-     
-        //echo = "Hello "+name;
+		
+        echo = "Hello "+name;
            
 
 		///}   
