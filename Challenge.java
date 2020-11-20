@@ -17,7 +17,7 @@ public class Challenge {
 
 		///}   
  
-        System.out.println(echo);
-        scanner.close();
+      System.out.println(echo);
+      scanner.close();
 	} 
 } 
